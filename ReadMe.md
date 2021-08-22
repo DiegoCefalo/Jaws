@@ -1,5 +1,5 @@
 ![tiburon](https://github.com/SweetBabyJezuz/Jaws/blob/master/src/jaws.jpg)
-<h1>Jaws<span class="tocSkip"></span></h1>
+# Jaws
 En este repositorio se encuentra un breve análisis estadístico sobre reportes de ataques de tiburones. Los datos fueron obtenidos de:
 * [Datos tiburon](https://www.kaggle.com/teajay/global-shark-attacks)
 ## Hipótesis
