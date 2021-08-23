@@ -2,7 +2,8 @@
 # Jaws
 En este repositorio se encuentra un breve análisis estadístico sobre reportes de ataques de tiburones. Los datos fueron obtenidos de:
 * [Datos tiburon](https://www.kaggle.com/teajay/global-shark-attacks)
-Puesto a que el dataset obtenido carece de datos útiles bien estructurados, se tuvo que realizar una limpieza extensa de estos. Primero se desecharon las filas completamente vacías. Luego se desecharon las columnas irrelevantes al análisis. La información del dataset manipulada fue esencialmente la edad y el sexo de la víctima, el país, el año y la época del año de los casos reportados. El resto de datos han sido si acaso mínimamente modificados. Debido a que los pasos detallados de todo el proceso son muy extensos, si posees interés en ello, el procedimiento se encuentran documentado en el archivo clean.ipynb de este repositorio.
+
+    Puesto a que el dataset obtenido carece de datos útiles bien estructurados, se tuvo que realizar una limpieza extensa de estos. Primero se desecharon las filas completamente vacías. Luego se desecharon las columnas irrelevantes al análisis. La información del dataset manipulada fue esencialmente la edad y el sexo de la víctima, el país, el año y la época del año de los casos reportados. El resto de datos han sido si acaso mínimamente modificados. Debido a que los pasos detallados de todo el proceso son muy extensos, si posees interés en ello, el procedimiento se encuentran documentado en el archivo clean.ipynb de este repositorio.
 ## Hipótesis
  Si eres un hombre joven en Estados Unidos, tienes la mayor probabilidad de ser atacado por un tiburón.
 ## Datos Resaltantes
